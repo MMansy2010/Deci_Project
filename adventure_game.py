@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-"""Untitled9.ipynb
-
 import time
 import random
 
